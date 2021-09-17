@@ -1,0 +1,32 @@
+The International Civil Aviation Organisation has a standard set of words
+use when one wishes to spell out a word.  They are designed to be readily 
+distinguishable so that there is no doubt whether the speaker 
+meant `EM' or `EN'  (probably the most similar letters in English).
+Here they are jumbled up, so that you need to sort them out!
+
+Charlie
+Delta
+Able
+Foxtrot
+Lima
+Golf
+Zulu
+Hotel
+Sierra
+Kilo
+India
+Juliet
+Bravo
+Mike
+November
+Oscar
+Papa
+Uniform
+Quebec
+Romeo
+Echo
+Tango
+Victor
+Whisky
+Xray
+Yankee
